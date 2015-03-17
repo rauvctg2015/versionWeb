@@ -1,0 +1,21 @@
+c:\users\reynel.useche\documents\visual studio 2010\Projects\testJuniorDev\testJuniorDev\bin\testJuniorDev.dll
+c:\users\reynel.useche\documents\visual studio 2010\Projects\testJuniorDev\testJuniorDev\bin\testJuniorDev.pdb
+c:\users\reynel.useche\documents\visual studio 2010\Projects\testJuniorDev\testJuniorDev\obj\Debug\testJuniorDev.dll
+c:\users\reynel.useche\documents\visual studio 2010\Projects\testJuniorDev\testJuniorDev\obj\Debug\testJuniorDev.pdb
+C:\Users\reynel.useche\Documents\prueba\testJuniorDev\testJuniorDev\testJuniorDev\obj\Debug\testJuniorDev.dll
+C:\Users\reynel.useche\Documents\prueba\testJuniorDev\testJuniorDev\testJuniorDev\bin\testJuniorDev.dll
+C:\Users\reynel.useche\Documents\prueba\testJuniorDev\testJuniorDev\testJuniorDev\bin\testJuniorDev.pdb
+C:\Users\reynel.useche\Documents\prueba\testJuniorDev\testJuniorDev\testJuniorDev\obj\Debug\testJuniorDev.pdb
+C:\Users\reynel.useche\Documents\testJuniorDev\testJuniorDev\testJuniorDev\bin\testJuniorDev.dll
+C:\Users\reynel.useche\Documents\testJuniorDev\testJuniorDev\testJuniorDev\bin\testJuniorDev.pdb
+C:\Users\reynel.useche\Documents\testJuniorDev\testJuniorDev\testJuniorDev\obj\Debug\testJuniorDev.dll
+C:\Users\reynel.useche\Documents\testJuniorDev\testJuniorDev\testJuniorDev\obj\Debug\testJuniorDev.pdb
+C:\Users\reynel.useche\Documents\testJuniorDev\testJuniorDev\testJuniorDev\obj\Debug\testJuniorDev.csprojResolveAssemblyReference.cache
+L:\Pruebas\versionWebApp\testJuniorDev\testJuniorDev\bin\testJuniorDev.dll
+L:\Pruebas\versionWebApp\testJuniorDev\testJuniorDev\bin\testJuniorDev.pdb
+L:\Pruebas\versionWebApp\testJuniorDev\testJuniorDev\obj\Debug\testJuniorDev.dll
+L:\Pruebas\versionWebApp\testJuniorDev\testJuniorDev\obj\Debug\testJuniorDev.pdb
+J:\Pruebas\versionWebApp\testJuniorDev\testJuniorDev\bin\testJuniorDev.dll
+J:\Pruebas\versionWebApp\testJuniorDev\testJuniorDev\bin\testJuniorDev.pdb
+J:\Pruebas\versionWebApp\testJuniorDev\testJuniorDev\obj\Debug\testJuniorDev.dll
+J:\Pruebas\versionWebApp\testJuniorDev\testJuniorDev\obj\Debug\testJuniorDev.pdb
